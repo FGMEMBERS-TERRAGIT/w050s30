@@ -1,7 +1,4 @@
-OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -47.9173979 -25.0498987 -79.08 305.96
-OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -47.8813439 -25.0633435 -0.59 28.65
-OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -47.8651269 -25.0697374 -1.89 289.11
-OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -47.8486202 -25.075836 -3.08 192.54
-OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -47.8682038 -25.0664913 -1.66 175.21
-OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -47.8578147 -25.0705899 -2.56 226.47
-OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -47.8490546 -25.074131 -3.12 39.47
+OBJECT_BASE 2166840.btg
+OBJECT SIHP.btg
+OBJECT_SHARED Models/Airport/windsock.xml -47.924815 -25.008007 4.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -47.924647 -25.007509 -9999.0 0.00

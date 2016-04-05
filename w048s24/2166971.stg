@@ -1,11 +1,27 @@
-OBJECT_SHARED Models/Airport/ndb.ac -47.069592 -23.053947 704 180
-OBJECT_SHARED Models/Airport/ndb.ac -47.061 -23.06 693.61 0
-OBJECT_SHARED Models/Airport/beacon.xml -47.141667 -23.011667 652.17 0
-OBJECT_SHARED Models/Communications/radio-medium.xml -47.145833 -23.0075 654.28 0
-OBJECT_SHARED Models/Communications/vordme_1.xml -47.129044 -23.008714 662.26 180
-OBJECT_SHARED Models/Airport/localizer.xml -47.118833 -23.018667 656.91 217.95
-OBJECT_SHARED Models/Airport/radar.xml -47.125 -23.02 671.16 0
-OBJECT_SHARED Models/Communications/vordme_2.xml -47.129 -23.008667 661.9 0
-OBJECT_SHARED Models/Military/tower-usaf-40m.xml -47.145833 -23.0075 654.28 0
-OBJECT_SHARED Models/Airport/Vehicle/dragon.xml -47.135833 -23.023 645.78 45
-OBJECT_SHARED Models/Airport/windsock_lit.xml -47.1375 -23.0075 656.92 0
+OBJECT_BASE 2166971.btg
+OBJECT SBKP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -47.137493 -23.006725 656.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -47.137654 -23.011192 655.0 0.00
+OBJECT SDMB.btg
+OBJECT_SHARED Models/Airport/windsock.xml -47.119283 -23.001035 663.1 0.00
+OBJECT SSIZ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -47.062318 -23.059215 692.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -47.061923 -23.058857 -9999.0 0.00
+OBJECT SDQI.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -47.090919 -23.072407 732.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -47.090575 -23.072871 -9999.0 0.00
+OBJECT SIZP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -47.078993 -23.056191 681.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -47.078520 -23.055893 -9999.0 0.00
+OBJECT SSWY.btg
+OBJECT_SHARED Models/Airport/windsock.xml -47.167376 -23.048459 644.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -47.168045 -23.048615 -9999.0 0.00
+OBJECT SNZI.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -47.159876 -23.059337 644.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -47.160380 -23.059552 -9999.0 0.00
+OBJECT SIKH.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -47.183040 -23.084344 600.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -47.182584 -23.084529 -9999.0 0.00
+OBJECT SDKU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -47.185081 -23.060816 657.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -47.184817 -23.060326 -9999.0 0.00

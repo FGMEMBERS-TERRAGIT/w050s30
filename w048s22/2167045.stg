@@ -1,4 +1,9 @@
-OBJECT_SHARED Models/Airport/ndb.ac -47.3375 -21.986 599.52 180
-OBJECT_SHARED Models/Airport/ils.xml -47.342347 -21.990758 601.78 1.82
-OBJECT_SHARED Models/Communications/vordme_1.xml -47.344167 -21.9845 600.34 180
-OBJECT_SHARED Models/Airport/localizer.xml -47.341333 -21.973 599.65 89.84
+OBJECT_BASE 2167045.btg
+OBJECT SBYS.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -47.342113 -21.994186 602.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -47.340424 -21.975136 602.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -47.343616 -21.994194 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -47.341927 -21.975136 600.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -47.327759 -21.993343 597.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -47.326069 -21.981571 598.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -47.342144 -21.984665 601.6 0.00

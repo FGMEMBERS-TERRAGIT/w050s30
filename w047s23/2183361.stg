@@ -1,2 +1,13 @@
-OBJECT_SHARED Models/Airport/ndb.ac -46.547789 -22.970792 856.06 180
-OBJECT_SHARED Models/Communications/vordme_4.xml -46.568117 -22.953136 935.98 0
+OBJECT_BASE 2183361.btg
+OBJECT SDBP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -46.540302 -22.973998 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -46.533951 -22.983691 888.8 0.00
+OBJECT SBBP.btg
+OBJECT_SHARED Models/Airport/windsock.xml -46.537837 -22.979456 884.1 0.00
+OBJECT SDYE.btg
+OBJECT_SHARED Models/Airport/windsock.xml -46.700926 -22.940916 804.3 0.00
+OBJECT SIIP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -46.703727 -22.977334 761.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -46.703183 -22.977103 -9999.0 0.00
+OBJECT SDJB.btg
+OBJECT_SHARED Models/Airport/windsock.xml -46.700082 -22.973235 748.7 0.00

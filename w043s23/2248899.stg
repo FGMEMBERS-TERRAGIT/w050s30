@@ -1,2 +1,5 @@
-OBJECT_SHARED Models/Airport/ndb.ac -42.0785 -22.926 4.99 180
-OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -42.0090625 -22.8845356 2.3 276.98
+OBJECT_BASE 2248899.btg
+OBJECT SBCB.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -42.082689 -22.923266 4.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -42.065847 -22.920095 4.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -42.074524 -22.920770 6.2 0.00

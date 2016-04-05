@@ -1,1 +1,5 @@
-OBJECT_SHARED Models/Airport/ndb.ac -43.764167 -21.267 1108.15 180
+OBJECT_BASE 2232617.btg
+OBJECT SBBQ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.763315 -21.259204 1102.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.758769 -21.275129 1107.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.760080 -21.266880 1110.1 0.00

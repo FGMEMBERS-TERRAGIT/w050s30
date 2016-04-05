@@ -1,3 +1,8 @@
-OBJECT_SHARED Models/Airport/ndb.ac -41.761356 -22.345319 6.05 180
-OBJECT_SHARED Models/Aircraft/Helicopter_EsquiloB2.ac -41.7618737 -22.339499 2.58 59.5
-OBJECT_SHARED Models/Communications/vordme_4.xml -41.768906 -22.344883 3.8 0
+OBJECT_BASE 2265320.btg
+OBJECT SBME.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -41.769766 -22.347603 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -41.762304 -22.338461 1.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -41.766889 -22.342521 4.3 0.00
+OBJECT SWOH.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -41.806037 -22.355925 7.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -41.806962 -22.356157 -9999.0 0.00

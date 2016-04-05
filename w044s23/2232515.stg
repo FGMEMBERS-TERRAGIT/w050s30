@@ -1,85 +1,97 @@
-OBJECT_SHARED Models/Airport/ils.xml -43.161833 -22.912667 0 352.42
-OBJECT_SHARED Models/Sport/RedbullBlueQuadro.ac -43.17217 -22.94596 -0.01 348
-OBJECT_SHARED Models/Sport/RedbullBlueGate.ac -43.17709 -22.94509 0 256
-OBJECT_SHARED Models/Sport/RedbullBlueGate.ac -43.17512 -22.94616 0 248
-OBJECT_SHARED Models/Sport/RedbullBlueGate.ac -43.1689 -22.94429 0.56 125
-OBJECT_SHARED Models/Sport/RedbullStartGate.ac -43.16733 -22.9424 0 272
-OBJECT_SHARED Models/Sport/RedbullRedPylon.ac -43.17146 -22.94424 1.01 180
-OBJECT_SHARED Models/Sport/RedbullRedPylon.ac -43.17073 -22.94341 3.78 180
-OBJECT_SHARED Models/Sport/RedbullRedPylon.ac -43.16954 -22.94275 3.5 180
-OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -43.2078563 -22.8800076 0 353.08
-OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -43.2054014 -22.8776739 2.53 84.16
-OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -43.2026541 -22.8763276 0 160.68
-OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -43.1991665 -22.8765071 -0.11 144.33
-OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -43.1911781 -22.882036 -0.22 269.92
-OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -43.1675173 -22.8803699 -0.35 63.08
-OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -43.1660246 -22.8817214 -0.28 87.53
-OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -43.1646808 -22.8907149 -0.1 244.7
-OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -43.1268326 -22.8758341 0 36.76
-OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -43.1180083 -22.8791702 -0.01 167.26
-OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -43.0991581 -22.9302442 -0.01 174.39
-OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -43.2129568 -22.8851653 4.15 303.31
-OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -43.2093465 -22.8948466 0 144.18
-OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -43.1956984 -22.8771533 -0.22 94.66
-OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -43.1948216 -22.8895571 -0.03 19.87
-OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -43.188918 -22.8895392 -0.05 231.31
-OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -43.1860344 -22.8841542 -0.25 346.25
-OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -43.1808712 -22.8873313 -0.19 56.37
-OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -43.1722825 -22.8884125 -0.13 122.62
-OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -43.1705097 -22.8828754 -0.32 288.63
-OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -43.1676635 -22.8853629 -0.2 103.38
-OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -43.1673418 -22.8882006 -0.13 328.13
-OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -43.1501425 -22.9578449 -0.02 18.73
-OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -43.1196819 -22.879488 0 308.78
-OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -43.1005772 -22.9305614 -0.02 248.68
-OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -43.1920067 -22.88547 -0.1 156.58
-OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -43.1858396 -22.8895212 -0.05 195.7
-OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -43.1830728 -22.8891084 -0.1 202.54
-OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -43.1827416 -22.8900956 -0.06 333.18
-OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -43.1825468 -22.8882468 -0.14 6.84
-OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -43.1694083 -22.8875271 -0.15 63.14
-OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -43.1606664 -22.910413 0 152.28
-OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -43.1275364 -22.8766385 0 238.47
-OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -43.1272244 -22.876854 0 7.34
-OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -43.1726737 -22.8782235 -0.46 317.29
-OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -43.165987 -22.894226 -0.05 75.99
-OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -43.1418441 -22.9326399 -0.17 359.86
-OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -43.1160459 -22.9266542 -0.01 122.38
-OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac -43.1618308 -22.9803863 -0.73 212.39
-OBJECT_SHARED Models/Airport/Vehicle/FireTruck_7.30m.ac -43.1670278 -22.907613 7.93 93.4
-OBJECT_SHARED Models/Airport/Vehicle/FireTruck_7.30m.ac -43.16702154 -22.90769657 7.96 93.7
-OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -43.1659891 -22.9028633 0 328.61
-OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -43.1615689 -22.903178 -0.02 190.31
-OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -43.1638558 -22.919484 0 104.84
-OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -43.1616652 -22.9195093 -0.02 218.19
-OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac -43.1803256 -22.8890007 -0.13 323.16
-OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac -43.1346635 -22.9092205 -0.04 240.68
-OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac -43.1345 -22.8851278 -0.02 295.76
-OBJECT_SHARED Models/Airport/light_pole_sbrj.xml -43.16621208 -22.91113478 7.04 0
-OBJECT_SHARED Models/Airport/light_pole_sbrj.xml -43.16618963 -22.91147303 6.91 0
-OBJECT_SHARED Models/Airport/light_pole_sbrj.xml -43.16616359 -22.91182888 6.74 0
-OBJECT_SHARED Models/Airport/light_pole_sbrj.xml -43.16614626 -22.91218788 6.57 0
-OBJECT_SHARED Models/Airport/light_pole_sbrj.xml -43.16612384 -22.91254523 6.36 0
-OBJECT_SHARED Models/Airport/light_pole_sbrj.xml -43.16610218 -22.91290774 6.15 0
-OBJECT_SHARED Models/Airport/light_pole_sbrj.xml -43.1660778 -22.913254 5.9 0
-OBJECT_SHARED Models/Airport/Vehicle/Fuel_Truck.ac -43.1653504 -22.904687 6.11 181.4
-OBJECT_SHARED Models/Maritime/Civilian/SailBoat_38feet.xml -43.1626792 -22.925755 -0.08 0
-OBJECT_STATIC RioSul.ac -43.176276 -22.956908 25.93 120
-OBJECT_STATIC Christ_The_Redeemer.xml -43.2098 -22.9511 580.5 190
-OBJECT_STATIC SBRJ_Terminal.xml -43.1659413 -22.913471 5.66 183.2
-OBJECT_STATIC SBRJ_Hangar_Lider.ac -43.1668237 -22.909653 8.07 183.2
-OBJECT_STATIC SBRJ_GEIV.ac -43.167852 -22.909098 9.6 183.2
-OBJECT_STATIC SBRJ_Hangar_SantosDumont.xml -43.1646563 -22.915341 4.02 239.2
-OBJECT_STATIC SBRJ_IIIComar.ac -43.1678128 -22.90579 6.85 93.7
-OBJECT_STATIC SBRJ_BuildingAccessControl.ac -43.167 -22.907453 7.84 182.5
-OBJECT_STATIC SBRJ_BuildingAviationBattalion.ac -43.16699 -22.90725 7.73 182.5
-OBJECT_STATIC SBRJ_CISCEA.ac -43.16711 -22.90818 8.3 182.5
-OBJECT_STATIC SBRJ_FireRescueSection.ac -43.16695 -22.90782 7.94 182.5
-OBJECT_STATIC SBRJ_Fuel_Aviation.ac -43.16536 -22.90456 6.13 93.5
-OBJECT_STATIC SBRJ_FuelAviation.ac -43.16681 -22.90464 5.64 93.7
-OBJECT_STATIC SBRJ_FuelAviation_Tank.ac -43.16647 -22.90473 5.85 94.1
-OBJECT_STATIC SBRJ_FuelAviationTank.ac -43.16555 -22.90453 5.43 93.1
-OBJECT_STATIC SBRJ_HangarGEIV.ac -43.16752 -22.90855 9.01 92.5
-OBJECT_STATIC SBRJ_ICA.ac -43.16688 -22.90839 8.04 182.5
-OBJECT_STATIC SBRJ_MaritimeRescue.ac -43.16723 -22.90467 5.47 92.8
-OBJECT_STATIC StadionDortmund.xml -43.23017 -22.91217 14.36 25
+OBJECT_BASE 2232515.btg
+OBJECT SBRJ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.163502 -22.905385 4.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.162856 -22.914965 4.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.163724 -22.910632 4.7 0.00
+OBJECT SNUO.btg
+OBJECT_SHARED Models/Airport/windsock.xml -43.182769 -22.901757 15.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.183226 -22.901490 -9999.0 0.00
+OBJECT SNVF.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.223447 -22.899514 13.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.223042 -22.899234 -9999.0 0.00
+OBJECT SIJP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.174050 -22.902378 12.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.173465 -22.902314 -9999.0 0.00
+OBJECT SDDO.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.175104 -22.904207 34.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.174757 -22.903868 -9999.0 0.00
+OBJECT SWIR.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.208136 -22.911955 9.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.207799 -22.911503 -9999.0 0.00
+OBJECT SDFQ.btg
+OBJECT_SHARED Models/Airport/windsock.xml -43.181557 -22.944277 14.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.181819 -22.943779 -9999.0 0.00
+OBJECT SDCX.btg
+OBJECT_SHARED Models/Airport/windsock.xml -43.180105 -22.949796 6.9 0.00
+OBJECT SWZK.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.203289 -22.911197 14.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.203713 -22.910828 -9999.0 0.00
+OBJECT SDQJ.btg
+OBJECT_SHARED Models/Airport/windsock.xml -43.235922 -22.984699 131.1 0.00
+OBJECT SDDM.btg
+OBJECT_SHARED Models/Airport/windsock.xml -43.196767 -22.945010 308.0 0.00
+OBJECT SSAS.btg
+OBJECT_SHARED Models/Airport/windsock.xml -43.176276 -22.911043 41.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.176678 -22.911326 -9999.0 0.00
+OBJECT SJBG.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.174605 -22.907100 36.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.174021 -22.907036 -9999.0 0.00
+OBJECT SWDX.btg
+OBJECT_SHARED Models/Airport/windsock.xml -43.174604 -22.907099 36.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.174020 -22.907032 -9999.0 0.00
+OBJECT SIDT.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.179047 -22.909019 19.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.179710 -22.909192 -9999.0 0.00
+OBJECT SNRG.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.191037 -22.955105 12.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.191360 -22.954708 -9999.0 0.00
+OBJECT SDHL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.218663 -22.975385 6.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.219152 -22.975289 -9999.0 0.00
+OBJECT SDQD.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.196779 -22.965128 152.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.197327 -22.965191 -9999.0 0.00
+OBJECT SDHD.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.115647 -22.894422 16.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.115422 -22.893961 -9999.0 0.00
+OBJECT SIGJ.btg
+OBJECT_SHARED Models/Airport/windsock.xml -43.194779 -22.919536 14.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.195347 -22.919415 -9999.0 0.00
+OBJECT SIPF.btg
+OBJECT_SHARED Models/Airport/windsock.xml -43.172939 -22.922656 23.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.172354 -22.922592 -9999.0 0.00
+OBJECT SITG.btg
+OBJECT_SHARED Models/Airport/windsock.xml -43.214821 -22.893141 5.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.215505 -22.893102 -9999.0 0.00
+OBJECT SDNU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.172911 -22.906524 34.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.172338 -22.906367 -9999.0 0.00
+OBJECT SDHU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.166010 -22.951688 77.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.166212 -22.952111 -9999.0 0.00
+OBJECT SDMU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.175383 -22.909518 25.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.174937 -22.909215 -9999.0 0.00
+OBJECT SNEQ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.222974 -22.912802 17.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.223219 -22.913299 -9999.0 0.00
+OBJECT SIMN.btg
+OBJECT_SHARED Models/Airport/windsock.xml -43.179258 -22.894765 8.8 0.00
+OBJECT SDRJ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.209915 -22.970079 6.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.210306 -22.969575 -9999.0 0.00
+OBJECT SJSY.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.060823 -22.938686 13.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.061335 -22.938375 -9999.0 0.00
+OBJECT SDUY.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -43.181547 -22.908741 17.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.182210 -22.908916 -9999.0 0.00
+OBJECT SDRI.btg
+OBJECT_SHARED Models/Airport/windsock.xml -43.177026 -22.957754 20.7 0.00
+OBJECT SIGP.btg
+OBJECT_SHARED Models/Airport/windsock.xml -43.181826 -22.909020 15.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -43.182488 -22.909197 -9999.0 0.00
+OBJECT SDKS.btg
+OBJECT_SHARED Models/Airport/windsock.xml -43.177170 -22.918226 30.6 0.00
+OBJECT SDYK.btg
+OBJECT_SHARED Models/Airport/windsock.xml -43.118004 -22.892393 17.4 0.00

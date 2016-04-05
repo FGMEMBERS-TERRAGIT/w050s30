@@ -1,5 +1,8 @@
-OBJECT_SHARED Models/Airport/ndb.ac -48.6325 -27.621833 50.81 180
-OBJECT_SHARED Models/Airport/marker.ac -48.6325 -27.621833 50.81 180
-OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -48.5966946 -27.5412425 -0.34 113.28
-OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -48.5946543 -27.5299958 -0.57 92.76
-OBJECT_STATIC Bridge_Hercilio_Luz.ac -48.5690705 -27.593414 0 89.2
+OBJECT_BASE 2150297.btg
+OBJECT SSKT.btg
+OBJECT_SHARED Models/Airport/windsock.xml -48.672473 -27.611730 10.5 0.00
+OBJECT SNVX.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -48.623984 -27.541722 26.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -48.623537 -27.541368 -9999.0 0.00
+OBJECT SIDX.btg
+OBJECT_SHARED Models/Airport/windsock.xml -48.531763 -27.572700 9.8 0.00

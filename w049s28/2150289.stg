@@ -1,14 +1,7 @@
-OBJECT_SHARED Models/Airport/ndb.ac -48.559167 -27.6615 -0.1 180
-OBJECT_SHARED Models/Airport/ils.xml -48.54875 -27.668194 4.03 239.72
-OBJECT_SHARED Models/Airport/marker.ac -48.559167 -27.6615 -0.1 180
-OBJECT_SHARED Models/Airport/localizer.xml -48.5295 -27.6775 4.13 211.67
-OBJECT_SHARED Models/Airport/Vehicle/FireTruck_7.30m.ac -48.54851956 -27.66321428 5.52 328
-OBJECT_SHARED Models/Airport/Vehicle/FireTruck_7.30m.ac -48.54844315 -27.66326292 5.53 328
-OBJECT_SHARED Models/Communications/vordme_4.xml -48.546667 -27.670333 4.05 0
-OBJECT_SHARED Models/Maritime/Civilian/SailBoat_38feet.xml -48.5580128 -27.6534132 -0.43 0
-OBJECT_STATIC Radar_Florianopolis.xml -48.53719 -27.67014 4.53 145.4
-OBJECT_STATIC FireStation_Tower.ac -48.5486071 -27.663252 5.5 57
-OBJECT_STATIC Hangar_Codesc.ac -48.5487317 -27.662874 5.49 56.4
-OBJECT_STATIC Hangar_GoldenAir.ac -48.5491512 -27.66262 5.4 56.4
-OBJECT_STATIC Hangar_MilitarPolice.ac -48.5494516 -27.662439 5.33 56.4
-OBJECT_STATIC SBFL_Terminal_cargo.ac -48.5476988 -27.663617 5.62 150.9
+OBJECT_BASE 2150289.btg
+OBJECT SBFL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -48.550804 -27.664906 5.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -48.531811 -27.677032 4.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -48.555481 -27.676472 8.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -48.550625 -27.663538 5.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -48.540833 -27.670277 4.7 0.00
