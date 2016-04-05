@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Airport/ndb.ac -48.724333 -26.372667 17.99 180
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -48.7365852 -26.2854082 -0.01 185.01
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -48.6741583 -26.2570106 -0.08 34.97
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -48.6822818 -26.2592401 -0.01 158.59
+OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -48.677376 -26.274503 -0.03 310.81
+OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -48.6663499 -26.2556289 -0.08 108.67
+OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -48.6618329 -26.2511696 -0.1 159.32

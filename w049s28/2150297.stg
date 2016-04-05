@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Airport/ndb.ac -48.6325 -27.621833 50.81 180
+OBJECT_SHARED Models/Airport/marker.ac -48.6325 -27.621833 50.81 180
+OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -48.5966946 -27.5412425 -0.34 113.28
+OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -48.5946543 -27.5299958 -0.57 92.76
+OBJECT_STATIC Bridge_Hercilio_Luz.ac -48.5690705 -27.593414 0 89.2

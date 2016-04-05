@@ -1,0 +1,16 @@
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -44.3697898 -22.9963205 -0.08 215.67
+OBJECT_SHARED Models/Trees/lipa.xml -44.3029833 -22.9754243 2.13 0
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -44.3903431 -22.9741732 0 170.92
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -44.3606199 -22.9973033 -0.08 22.24
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -44.32898 -22.981289 -0.02 56.41
+OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -44.4191024 -22.9992988 -0.01 297.34
+OBJECT_SHARED Models/Airport/LightPole_12m.xml -44.3032968 -22.9754683 1.9 281.5
+OBJECT_SHARED Models/Airport/LightPole_12m.xml -44.3030304 -22.9754153 2.08 281.5
+OBJECT_SHARED Models/Airport/LightPole_12m.xml -44.302852 -22.9753796 2.21 281.5
+OBJECT_SHARED Models/Boundaries/Fence_12m.ac -44.3036177 -22.9755357 1.71 12.4
+OBJECT_SHARED Models/Boundaries/Fence_12m.ac -44.3035904 -22.975645 1.79 102.3
+OBJECT_SHARED Models/Boundaries/Fence_12m.ac -44.3035013 -22.9755123 1.76 281.8
+OBJECT_SHARED Models/Boundaries/Fence_12m.ac -44.3034758 -22.9756197 1.83 190.9
+OBJECT_SHARED Models/Airport/FuelTank_7x3m.ac -44.30357 -22.975598 1.77 102.1
+OBJECT_SHARED Models/Maritime/Civilian/SailBoat_38feet.xml -44.3112771 -22.9715308 -0.04 0
+OBJECT_STATIC SDAG_Terminal.ac -44.30305764 -22.97541858 2.06 281.5

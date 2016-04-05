@@ -1,0 +1,11 @@
+OBJECT_SHARED Models/Airport/ndb.ac -47.069592 -23.053947 704 180
+OBJECT_SHARED Models/Airport/ndb.ac -47.061 -23.06 693.61 0
+OBJECT_SHARED Models/Airport/beacon.xml -47.141667 -23.011667 652.17 0
+OBJECT_SHARED Models/Communications/radio-medium.xml -47.145833 -23.0075 654.28 0
+OBJECT_SHARED Models/Communications/vordme_1.xml -47.129044 -23.008714 662.26 180
+OBJECT_SHARED Models/Airport/localizer.xml -47.118833 -23.018667 656.91 217.95
+OBJECT_SHARED Models/Airport/radar.xml -47.125 -23.02 671.16 0
+OBJECT_SHARED Models/Communications/vordme_2.xml -47.129 -23.008667 661.9 0
+OBJECT_SHARED Models/Military/tower-usaf-40m.xml -47.145833 -23.0075 654.28 0
+OBJECT_SHARED Models/Airport/Vehicle/dragon.xml -47.135833 -23.023 645.78 45
+OBJECT_SHARED Models/Airport/windsock_lit.xml -47.1375 -23.0075 656.92 0

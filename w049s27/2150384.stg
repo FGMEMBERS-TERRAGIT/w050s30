@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -48.7535234 -26.248386 -0.05 150
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat.ac -48.7535234 -26.248386 -0.05 255
+OBJECT_SHARED Models/Communications/vordme_4.xml -48.798 -26.222333 -0.01 0
+OBJECT_STATIC SBJV_Tower.xml -48.80052 -26.2251 0 231
+OBJECT_STATIC SBJV_Terminal.ac -48.80173 -26.22424 0 231
