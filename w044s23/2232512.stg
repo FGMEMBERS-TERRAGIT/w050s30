@@ -1,3 +1,4 @@
+OBJECT_SHARED Models/Industrial/Industrial110x185.ac -43.7519212 -22.9038311 6.14 204
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -43.9924005 -22.9990593 -0.34 182.37
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -43.9775713 -22.9922055 -0.82 268.45
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -43.9595557 -22.9832248 -0.79 150.77
@@ -52,5 +53,12 @@ OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -43.7838809 -22.9566196 -1.74 247
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -43.9125699 -22.9346178 0 308.57
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -43.8676767 -22.929118 2.93 20.89
 OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -43.9267156 -22.9661776 -0.32 102.21
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.xml -43.7545173 -22.9067542 4.1 248
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.xml -43.754394 -22.9069981 4.07 248
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.xml -43.7537119 -22.9024329 4.47 248
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.xml -43.7533886 -22.9031355 4.87 248
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -43.94389 -22.9792016 -0.3 317.74
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -43.8427006 -22.939035 -0.04 331.97
+OBJECT_SHARED Models/Industrial/Gas12m.ac -43.7526056 -22.9034621 7.91 248
+OBJECT_SHARED Models/Industrial/generic_chimney_02.xml -43.7529346 -22.9050077 6.45 248
+OBJECT_SHARED Models/Industrial/generic_chimney_02.xml -43.752597 -22.9048577 7.02 248
