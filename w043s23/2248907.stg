@@ -1,0 +1,3 @@
+OBJECT_SHARED Models/Airport/ndb.ac -42.096489 -22.822961 9.43 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -42.095339 -22.812772 18.98 180
+OBJECT_SHARED Models/Military/mil-hangar-60x70-sand.xml -42.09478 -22.82058 16.93 45
