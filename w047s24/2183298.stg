@@ -19,6 +19,7 @@ OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -46.32 -23.9933503 -0.06 81.5
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -46.3105293 -23.9390834 0.5 203.57
 OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -46.2890578 -23.9870379 -0.11 203.57
 OBJECT_SHARED Models/Maritime/Civilian/Catamaran.xml -46.36190251 -23.99621338 -0.04 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -46.3279714 -23.9850551 -2.56 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac -46.3102126 -23.9422394 0.48 278.62
 # dsf2stg
 # do not edit below this line

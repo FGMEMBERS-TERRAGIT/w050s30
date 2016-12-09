@@ -6,5 +6,6 @@ OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -40.5708185 -20.7832237 -0.02 232
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -40.5630423 -20.7807977 -0.24 71.21
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -40.5586967 -20.7807587 -0.51 3.69
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -40.5496923 -20.7807909 -0.97 254.36
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -40.5780005 -20.7803686 20.82 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac -40.574343 -20.7871801 0 275.08
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac -40.5695604 -20.7789808 -0.03 172.35

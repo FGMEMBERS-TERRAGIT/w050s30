@@ -1,3 +1,4 @@
 OBJECT_SHARED Models/Airport/ndb.ac -46.264167 -24.0505 0 180
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -46.3343943 -24.0039287 -0.06 350.13
 OBJECT_SHARED Models/Maritime/Military/Carrier_A01.xml -46.38374645 -24.04996286 -3.73 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -46.2635043 -24.0507667 -2.4 0
