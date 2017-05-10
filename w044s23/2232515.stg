@@ -43,6 +43,7 @@ OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -43.1275364 -22.8766385 0 238.
 OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -43.1272244 -22.876854 0 7.34
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -43.1677034 -22.8997339 15.81 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -43.1463773 -22.9343148 -2.56 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -43.1338304 -22.88456 -2.4 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -43.1726737 -22.8782235 -0.46 317.29
 OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -43.165987 -22.894226 -0.05 75.99
 OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -43.1418441 -22.9326399 -0.17 359.86
