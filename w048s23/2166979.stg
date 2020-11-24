@@ -3,3 +3,8 @@ OBJECT_SHARED Models/Airport/ndb.ac -47.155167 -22.992833 632.67 180
 OBJECT_SHARED Models/Airport/ils.xml -47.144 -22.999167 655.27 233.74
 OBJECT_SHARED Models/Airport/marker.ac -47.204167 -22.9575 607.61 180
 OBJECT_SHARED Models/Airport/marker.ac -47.155167 -22.992833 632.67 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -47.15516 -22.99275 652.38 346.24
+# END dsf2stg
